@@ -1,0 +1,8 @@
+{
+  "hours": 3,
+  "stations": [
+    { "id": "P1PRIB01", "name": "Příbram" },
+    { "id": "P1PRUZ01", "name": "Praha-Ruzyně" },
+    { "id": "P1NEUM01", "name": "Neumětely" }
+  ]
+}

@@ -1,0 +1,3172 @@
+{
+ "dataPoints": [
+  {
+   "timestamp": "2026-11-13T16:00:00Z",
+   "values": {
+    "D": "276",
+    "F": "3.3",
+    "DIcon": "2",
+    "Dmax": "261",
+    "Fmax": "8",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T16:10:00Z",
+   "values": {
+    "D": "273",
+    "F": "3.2",
+    "DIcon": "2",
+    "Dmax": "265",
+    "Fmax": "7.5",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T16:20:00Z",
+   "values": {
+    "D": "269",
+    "F": "3.9",
+    "DIcon": "2",
+    "Dmax": "277",
+    "Fmax": "8.9",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T16:30:00Z",
+   "values": {
+    "D": "267",
+    "F": "3.8",
+    "DIcon": "2",
+    "Dmax": "249",
+    "Fmax": "9",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T16:40:00Z",
+   "values": {
+    "D": "265",
+    "F": "4.4",
+    "DIcon": "2",
+    "Dmax": "264",
+    "Fmax": "9.7",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T16:50:00Z",
+   "values": {
+    "D": "264",
+    "F": "4.5",
+    "DIcon": "2",
+    "Dmax": "262",
+    "Fmax": "10.5",
+    "DmaxIcon": "6"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T17:00:00Z",
+   "values": {
+    "D": "264",
+    "F": "3.7",
+    "DIcon": "2",
+    "Dmax": "254",
+    "Fmax": "9.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T17:10:00Z",
+   "values": {
+    "D": "257",
+    "F": "3.7",
+    "DIcon": "2",
+    "Dmax": "259",
+    "Fmax": "7.8",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T17:20:00Z",
+   "values": {
+    "D": "259",
+    "F": "3.6",
+    "DIcon": "2",
+    "Dmax": "262",
+    "Fmax": "7.4",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T17:30:00Z",
+   "values": {
+    "D": "261",
+    "F": "3.6",
+    "DIcon": "2",
+    "Dmax": "255",
+    "Fmax": "8.6",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T17:40:00Z",
+   "values": {
+    "D": "268",
+    "F": "3.3",
+    "DIcon": "2",
+    "Dmax": "234",
+    "Fmax": "7.6",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T17:50:00Z",
+   "values": {
+    "D": "265",
+    "F": "3.6",
+    "DIcon": "2",
+    "Dmax": "261",
+    "Fmax": "8.4",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T18:00:00Z",
+   "values": {
+    "D": "263",
+    "F": "3.2",
+    "DIcon": "2",
+    "Dmax": "223",
+    "Fmax": "9.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T18:10:00Z",
+   "values": {
+    "D": "269",
+    "F": "3.5",
+    "DIcon": "2",
+    "Dmax": "300",
+    "Fmax": "7.9",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T18:20:00Z",
+   "values": {
+    "D": "264",
+    "F": "3.8",
+    "DIcon": "2",
+    "Dmax": "282",
+    "Fmax": "11.5",
+    "DmaxIcon": "6"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T18:30:00Z",
+   "values": {
+    "D": "271",
+    "F": "3.1",
+    "DIcon": "2",
+    "Dmax": "255",
+    "Fmax": "7.1",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T18:40:00Z",
+   "values": {
+    "D": "268",
+    "F": "3.1",
+    "DIcon": "2",
+    "Dmax": "264",
+    "Fmax": "7.6",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T18:50:00Z",
+   "values": {
+    "D": "263",
+    "F": "3",
+    "DIcon": "2",
+    "Dmax": "244",
+    "Fmax": "6.8",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T19:00:00Z",
+   "values": {
+    "D": "261",
+    "F": "3.2",
+    "DIcon": "2",
+    "Dmax": "274",
+    "Fmax": "8",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T19:10:00Z",
+   "values": {
+    "D": "265",
+    "F": "3.7",
+    "DIcon": "2",
+    "Dmax": "267",
+    "Fmax": "8.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T19:20:00Z",
+   "values": {
+    "D": "272",
+    "F": "3.5",
+    "DIcon": "2",
+    "Dmax": "288",
+    "Fmax": "9.1",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T19:30:00Z",
+   "values": {
+    "D": "266",
+    "F": "2.8",
+    "DIcon": "2",
+    "Dmax": "267",
+    "Fmax": "6.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T19:40:00Z",
+   "values": {
+    "D": "278",
+    "F": "2.8",
+    "DIcon": "2",
+    "Dmax": "266",
+    "Fmax": "6.5",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T19:50:00Z",
+   "values": {
+    "D": "276",
+    "F": "2.9",
+    "DIcon": "2",
+    "Dmax": "266",
+    "Fmax": "8.5",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T20:00:00Z",
+   "values": {
+    "D": "261",
+    "F": "2.9",
+    "DIcon": "2",
+    "Dmax": "225",
+    "Fmax": "7.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T20:10:00Z",
+   "values": {
+    "D": "274",
+    "F": "3.3",
+    "DIcon": "2",
+    "Dmax": "263",
+    "Fmax": "8.6",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T20:20:00Z",
+   "values": {
+    "D": "270",
+    "F": "3.1",
+    "DIcon": "2",
+    "Dmax": "237",
+    "Fmax": "7.7",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T20:30:00Z",
+   "values": {
+    "D": "268",
+    "F": "3.3",
+    "DIcon": "2",
+    "Dmax": "279",
+    "Fmax": "8.6",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T20:40:00Z",
+   "values": {
+    "D": "262",
+    "F": "3.8",
+    "DIcon": "2",
+    "Dmax": "273",
+    "Fmax": "9.9",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T20:50:00Z",
+   "values": {
+    "D": "266",
+    "F": "3.1",
+    "DIcon": "2",
+    "Dmax": "268",
+    "Fmax": "8.6",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T21:00:00Z",
+   "values": {
+    "D": "271",
+    "F": "3.6",
+    "DIcon": "2",
+    "Dmax": "281",
+    "Fmax": "9.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T21:10:00Z",
+   "values": {
+    "D": "269",
+    "F": "3.4",
+    "DIcon": "2",
+    "Dmax": "274",
+    "Fmax": "7.9",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T21:20:00Z",
+   "values": {
+    "D": "268",
+    "F": "3.5",
+    "DIcon": "2",
+    "Dmax": "243",
+    "Fmax": "8.3",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T21:30:00Z",
+   "values": {
+    "D": "258",
+    "F": "3.7",
+    "DIcon": "2",
+    "Dmax": "266",
+    "Fmax": "8",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T21:40:00Z",
+   "values": {
+    "D": "260",
+    "F": "3.3",
+    "DIcon": "2",
+    "Dmax": "247",
+    "Fmax": "7.1",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T21:50:00Z",
+   "values": {
+    "D": "254",
+    "F": "3.2",
+    "DIcon": "2",
+    "Dmax": "275",
+    "Fmax": "7.3",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T22:00:00Z",
+   "values": {
+    "D": "255",
+    "F": "2.8",
+    "DIcon": "2",
+    "Dmax": "254",
+    "Fmax": "6.1",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T22:10:00Z",
+   "values": {
+    "D": "250",
+    "F": "2.1",
+    "DIcon": "2",
+    "Dmax": "281",
+    "Fmax": "5.7",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T22:20:00Z",
+   "values": {
+    "D": "239",
+    "F": "2.3",
+    "DIcon": "2",
+    "Dmax": "212",
+    "Fmax": "4.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T22:30:00Z",
+   "values": {
+    "D": "246",
+    "F": "2.4",
+    "DIcon": "2",
+    "Dmax": "248",
+    "Fmax": "6",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T22:40:00Z",
+   "values": {
+    "D": "250",
+    "F": "2.5",
+    "DIcon": "2",
+    "Dmax": "241",
+    "Fmax": "6",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T22:50:00Z",
+   "values": {
+    "D": "244",
+    "F": "2.4",
+    "DIcon": "2",
+    "Dmax": "236",
+    "Fmax": "5.4",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T23:00:00Z",
+   "values": {
+    "D": "247",
+    "F": "2.9",
+    "DIcon": "2",
+    "Dmax": "280",
+    "Fmax": "6.3",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T23:10:00Z",
+   "values": {
+    "D": "254",
+    "F": "2.6",
+    "DIcon": "2",
+    "Dmax": "282",
+    "Fmax": "6.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T23:20:00Z",
+   "values": {
+    "D": "247",
+    "F": "2.5",
+    "DIcon": "2",
+    "Dmax": "247",
+    "Fmax": "5.6",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T23:30:00Z",
+   "values": {
+    "D": "238",
+    "F": "1.9",
+    "DIcon": "2",
+    "Dmax": "255",
+    "Fmax": "5.3",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T23:40:00Z",
+   "values": {
+    "D": "241",
+    "F": "1.6",
+    "DIcon": "2",
+    "Dmax": "212",
+    "Fmax": "4.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-13T23:50:00Z",
+   "values": {
+    "D": "250",
+    "F": "1.9",
+    "DIcon": "2",
+    "Dmax": "231",
+    "Fmax": "6.5",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T00:00:00Z",
+   "values": {
+    "D": "269",
+    "F": "2.5",
+    "DIcon": "2",
+    "Dmax": "268",
+    "Fmax": "5.7",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T00:10:00Z",
+   "values": {
+    "D": "272",
+    "F": "3",
+    "DIcon": "2",
+    "Dmax": "259",
+    "Fmax": "7.3",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T00:20:00Z",
+   "values": {
+    "D": "270",
+    "F": "3.1",
+    "DIcon": "2",
+    "Dmax": "241",
+    "Fmax": "7.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T00:30:00Z",
+   "values": {
+    "D": "271",
+    "F": "3",
+    "DIcon": "2",
+    "Dmax": "258",
+    "Fmax": "6.9",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T00:40:00Z",
+   "values": {
+    "D": "267",
+    "F": "2.4",
+    "DIcon": "2",
+    "Dmax": "235",
+    "Fmax": "6.1",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T00:50:00Z",
+   "values": {
+    "D": "267",
+    "F": "2",
+    "DIcon": "2",
+    "Dmax": "267",
+    "Fmax": "5",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T01:00:00Z",
+   "values": {
+    "D": "258",
+    "F": "1.9",
+    "DIcon": "2",
+    "Dmax": "251",
+    "Fmax": "4.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T01:10:00Z",
+   "values": {
+    "D": "249",
+    "F": "2.2",
+    "DIcon": "2",
+    "Dmax": "266",
+    "Fmax": "5.7",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T01:20:00Z",
+   "values": {
+    "D": "258",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "218",
+    "Fmax": "4.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T01:30:00Z",
+   "values": {
+    "D": "264",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "259",
+    "Fmax": "4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T01:40:00Z",
+   "values": {
+    "D": "253",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "257",
+    "Fmax": "3.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T01:50:00Z",
+   "values": {
+    "D": "236",
+    "F": "1.5",
+    "DIcon": "2",
+    "Dmax": "262",
+    "Fmax": "4.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T02:00:00Z",
+   "values": {
+    "D": "237",
+    "F": "1.5",
+    "DIcon": "2",
+    "Dmax": "272",
+    "Fmax": "3.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T02:10:00Z",
+   "values": {
+    "D": "239",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "259",
+    "Fmax": "3.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T02:20:00Z",
+   "values": {
+    "D": "201",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "195",
+    "Fmax": "3.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T02:30:00Z",
+   "values": {
+    "D": "212",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "195",
+    "Fmax": "2.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T02:40:00Z",
+   "values": {
+    "D": "240",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "199",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T02:50:00Z",
+   "values": {
+    "D": "222",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "173",
+    "Fmax": "3.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T03:00:00Z",
+   "values": {
+    "D": "270",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "168",
+    "Fmax": "3.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T03:10:00Z",
+   "values": {
+    "D": "306",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "316",
+    "Fmax": "1.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T03:20:00Z",
+   "values": {
+    "D": "222",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "205",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T03:30:00Z",
+   "values": {
+    "D": "205",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "192",
+    "Fmax": "4.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T03:40:00Z",
+   "values": {
+    "D": "217",
+    "F": "1.6",
+    "DIcon": "2",
+    "Dmax": "203",
+    "Fmax": "4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T03:50:00Z",
+   "values": {
+    "D": "227",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "220",
+    "Fmax": "3.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T04:00:00Z",
+   "values": {
+    "D": "228",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "213",
+    "Fmax": "4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T04:10:00Z",
+   "values": {
+    "D": "232",
+    "F": "1.6",
+    "DIcon": "2",
+    "Dmax": "229",
+    "Fmax": "3.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T04:20:00Z",
+   "values": {
+    "D": "220",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "252",
+    "Fmax": "3.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T04:30:00Z",
+   "values": {
+    "D": "225",
+    "F": "1.5",
+    "DIcon": "2",
+    "Dmax": "204",
+    "Fmax": "3.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T04:40:00Z",
+   "values": {
+    "D": "243",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "232",
+    "Fmax": "3.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T04:50:00Z",
+   "values": {
+    "D": "248",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "199",
+    "Fmax": "2.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T05:00:00Z",
+   "values": {
+    "D": "251",
+    "F": "1.6",
+    "DIcon": "2",
+    "Dmax": "252",
+    "Fmax": "3.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T05:10:00Z",
+   "values": {
+    "D": "253",
+    "F": "2.2",
+    "DIcon": "2",
+    "Dmax": "247",
+    "Fmax": "4.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T05:20:00Z",
+   "values": {
+    "D": "255",
+    "F": "1.9",
+    "DIcon": "2",
+    "Dmax": "244",
+    "Fmax": "4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T05:30:00Z",
+   "values": {
+    "D": "251",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "260",
+    "Fmax": "3.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T05:40:00Z",
+   "values": {
+    "D": "252",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "258",
+    "Fmax": "3.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T05:50:00Z",
+   "values": {
+    "D": "264",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "251",
+    "Fmax": "2.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T06:00:00Z",
+   "values": {
+    "D": "248",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "229",
+    "Fmax": "2.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T06:10:00Z",
+   "values": {
+    "D": "209",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "139",
+    "Fmax": "2.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T06:20:00Z",
+   "values": {
+    "D": "206",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "195",
+    "Fmax": "3.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T06:30:00Z",
+   "values": {
+    "D": "162",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "166",
+    "Fmax": "2.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T06:40:00Z",
+   "values": {
+    "D": "182",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "181",
+    "Fmax": "2.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T06:50:00Z",
+   "values": {
+    "D": "198",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "162",
+    "Fmax": "2.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T07:00:00Z",
+   "values": {
+    "D": "184",
+    "F": "1.9",
+    "DIcon": "2",
+    "Dmax": "168",
+    "Fmax": "4.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T07:10:00Z",
+   "values": {
+    "D": "210",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "198",
+    "Fmax": "3.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T07:20:00Z",
+   "values": {
+    "D": "204",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "220",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T07:30:00Z",
+   "values": {
+    "D": "143",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "20",
+    "Fmax": "2.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T07:40:00Z",
+   "values": {
+    "D": "305",
+    "F": "0.5",
+    "DIcon": "2",
+    "Dmax": "279",
+    "Fmax": "1.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T07:50:00Z",
+   "values": {
+    "D": "93",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "78",
+    "Fmax": "1.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T08:00:00Z",
+   "values": {
+    "D": "125",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "134",
+    "Fmax": "2.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T08:10:00Z",
+   "values": {
+    "D": "163",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "173",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T08:20:00Z",
+   "values": {
+    "D": "188",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "184",
+    "Fmax": "1.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T08:30:00Z",
+   "values": {
+    "D": "213",
+    "F": "1",
+    "DIcon": "2",
+    "Dmax": "176",
+    "Fmax": "2.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T08:40:00Z",
+   "values": {
+    "D": "200",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "185",
+    "Fmax": "2.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T08:50:00Z",
+   "values": {
+    "D": "228",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "228",
+    "Fmax": "2.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T09:00:00Z",
+   "values": {
+    "D": "245",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "268",
+    "Fmax": "1.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T09:10:00Z",
+   "values": {
+    "D": "244",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "265",
+    "Fmax": "2.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T09:20:00Z",
+   "values": {
+    "D": "275",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "271",
+    "Fmax": "2.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T09:30:00Z",
+   "values": {
+    "D": "307",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "300",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T09:40:00Z",
+   "values": {
+    "D": "289",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "287",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T09:50:00Z",
+   "values": {
+    "D": "339",
+    "F": "1",
+    "DIcon": "2",
+    "Dmax": "314",
+    "Fmax": "2.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T10:00:00Z",
+   "values": {
+    "D": "18",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "34",
+    "Fmax": "2.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T10:10:00Z",
+   "values": {
+    "D": "44",
+    "F": "1",
+    "DIcon": "2",
+    "Dmax": "357",
+    "Fmax": "2.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T10:20:00Z",
+   "values": {
+    "D": "324",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "112",
+    "Fmax": "2.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T10:30:00Z",
+   "values": {
+    "D": "115",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "109",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T10:40:00Z",
+   "values": {
+    "D": "116",
+    "F": "1.5",
+    "DIcon": "2",
+    "Dmax": "119",
+    "Fmax": "2.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T10:50:00Z",
+   "values": {
+    "D": "82",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "105",
+    "Fmax": "2.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T11:00:00Z",
+   "values": {
+    "D": "89",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "96",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T11:10:00Z",
+   "values": {
+    "D": "82",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "72",
+    "Fmax": "2.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T11:20:00Z",
+   "values": {
+    "D": "123",
+    "F": "2",
+    "DIcon": "2",
+    "Dmax": "130",
+    "Fmax": "3.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T11:30:00Z",
+   "values": {
+    "D": "128",
+    "F": "2.1",
+    "DIcon": "2",
+    "Dmax": "142",
+    "Fmax": "3.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T11:40:00Z",
+   "values": {
+    "D": "120",
+    "F": "2",
+    "DIcon": "2",
+    "Dmax": "128",
+    "Fmax": "3.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T11:50:00Z",
+   "values": {
+    "D": "102",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "80",
+    "Fmax": "2.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T12:00:00Z",
+   "values": {
+    "D": "141",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "124",
+    "Fmax": "4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T12:10:00Z",
+   "values": {
+    "D": "161",
+    "F": "2.2",
+    "DIcon": "2",
+    "Dmax": "163",
+    "Fmax": "4.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T12:20:00Z",
+   "values": {
+    "D": "155",
+    "F": "2",
+    "DIcon": "2",
+    "Dmax": "172",
+    "Fmax": "3.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T12:30:00Z",
+   "values": {
+    "D": "136",
+    "F": "2.3",
+    "DIcon": "2",
+    "Dmax": "151",
+    "Fmax": "4.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T12:40:00Z",
+   "values": {
+    "D": "165",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "195",
+    "Fmax": "5.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T12:50:00Z",
+   "values": {
+    "D": "198",
+    "F": "2.2",
+    "DIcon": "2",
+    "Dmax": "190",
+    "Fmax": "4.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T13:00:00Z",
+   "values": {
+    "D": "180",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "178",
+    "Fmax": "4.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T13:10:00Z",
+   "values": {
+    "D": "169",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "124",
+    "Fmax": "4.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T13:20:00Z",
+   "values": {
+    "D": "163",
+    "F": "1.9",
+    "DIcon": "2",
+    "Dmax": "143",
+    "Fmax": "3.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T13:30:00Z",
+   "values": {
+    "D": "164",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "155",
+    "Fmax": "3.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T13:40:00Z",
+   "values": {
+    "D": "132",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "133",
+    "Fmax": "3.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T13:50:00Z",
+   "values": {
+    "D": "137",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "140",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T14:00:00Z",
+   "values": {
+    "D": "135",
+    "F": "1.5",
+    "DIcon": "2",
+    "Dmax": "130",
+    "Fmax": "2.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T14:10:00Z",
+   "values": {
+    "D": "128",
+    "F": "2",
+    "DIcon": "2",
+    "Dmax": "112",
+    "Fmax": "3.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T14:20:00Z",
+   "values": {
+    "D": "129",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "125",
+    "Fmax": "3.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T14:30:00Z",
+   "values": {
+    "D": "138",
+    "F": "1.6",
+    "DIcon": "2",
+    "Dmax": "123",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T14:40:00Z",
+   "values": {
+    "D": "128",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "95",
+    "Fmax": "2.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T14:50:00Z",
+   "values": {
+    "D": "119",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "138",
+    "Fmax": "2.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T15:00:00Z",
+   "values": {
+    "D": "127",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "127",
+    "Fmax": "1.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T15:10:00Z",
+   "values": {
+    "D": "124",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "117",
+    "Fmax": "2.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T15:20:00Z",
+   "values": {
+    "D": "120",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "122",
+    "Fmax": "1.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T15:30:00Z",
+   "values": {
+    "D": "115",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "127",
+    "Fmax": "1.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T15:40:00Z",
+   "values": {
+    "D": "115",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "108",
+    "Fmax": "1.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T15:50:00Z",
+   "values": {
+    "D": "107",
+    "F": "1",
+    "DIcon": "2",
+    "Dmax": "122",
+    "Fmax": "2.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T16:00:00Z",
+   "values": {
+    "D": "116",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "124",
+    "Fmax": "2.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T16:10:00Z",
+   "values": {
+    "D": "118",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "115",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T16:20:00Z",
+   "values": {
+    "D": "117",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "116",
+    "Fmax": "3.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T16:30:00Z",
+   "values": {
+    "D": "112",
+    "F": "1.5",
+    "DIcon": "2",
+    "Dmax": "115",
+    "Fmax": "2.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T16:40:00Z",
+   "values": {
+    "D": "111",
+    "F": "1.5",
+    "DIcon": "2",
+    "Dmax": "110",
+    "Fmax": "2.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T16:50:00Z",
+   "values": {
+    "D": "110",
+    "F": "1.5",
+    "DIcon": "2",
+    "Dmax": "109",
+    "Fmax": "2.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T17:00:00Z",
+   "values": {
+    "D": "96",
+    "F": "1",
+    "DIcon": "2",
+    "Dmax": "105",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T17:10:00Z",
+   "values": {
+    "D": "106",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "107",
+    "Fmax": "2.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T17:20:00Z",
+   "values": {
+    "D": "102",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "105",
+    "Fmax": "2.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T17:30:00Z",
+   "values": {
+    "D": "98",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "143",
+    "Fmax": "1.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T17:40:00Z",
+   "values": {
+    "D": "115",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "106",
+    "Fmax": "1.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T17:50:00Z",
+   "values": {
+    "D": "135",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "159",
+    "Fmax": "1.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T18:00:00Z",
+   "values": {
+    "D": "115",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "103",
+    "Fmax": "2.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T18:10:00Z",
+   "values": {
+    "D": "117",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "130",
+    "Fmax": "2.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T18:20:00Z",
+   "values": {
+    "D": "112",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "106",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T18:30:00Z",
+   "values": {
+    "D": "117",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "120",
+    "Fmax": "2.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T18:40:00Z",
+   "values": {
+    "D": "122",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "118",
+    "Fmax": "3.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T18:50:00Z",
+   "values": {
+    "D": "122",
+    "F": "1.6",
+    "DIcon": "2",
+    "Dmax": "116",
+    "Fmax": "2.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T19:00:00Z",
+   "values": {
+    "D": "122",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "116",
+    "Fmax": "3.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T19:10:00Z",
+   "values": {
+    "D": "120",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "132",
+    "Fmax": "2.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T19:20:00Z",
+   "values": {
+    "D": "122",
+    "F": "2",
+    "DIcon": "2",
+    "Dmax": "127",
+    "Fmax": "3.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T19:30:00Z",
+   "values": {
+    "D": "123",
+    "F": "2.1",
+    "DIcon": "2",
+    "Dmax": "138",
+    "Fmax": "3.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T19:40:00Z",
+   "values": {
+    "D": "123",
+    "F": "2.2",
+    "DIcon": "2",
+    "Dmax": "119",
+    "Fmax": "4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T19:50:00Z",
+   "values": {
+    "D": "121",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "124",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T20:00:00Z",
+   "values": {
+    "D": "129",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "141",
+    "Fmax": "3.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T20:10:00Z",
+   "values": {
+    "D": "125",
+    "F": "2.1",
+    "DIcon": "2",
+    "Dmax": "136",
+    "Fmax": "3.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T20:20:00Z",
+   "values": {
+    "D": "128",
+    "F": "2",
+    "DIcon": "2",
+    "Dmax": "110",
+    "Fmax": "4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T20:30:00Z",
+   "values": {
+    "D": "129",
+    "F": "2",
+    "DIcon": "2",
+    "Dmax": "129",
+    "Fmax": "4.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T20:40:00Z",
+   "values": {
+    "D": "128",
+    "F": "2.3",
+    "DIcon": "2",
+    "Dmax": "154",
+    "Fmax": "5",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T20:50:00Z",
+   "values": {
+    "D": "137",
+    "F": "2.4",
+    "DIcon": "2",
+    "Dmax": "130",
+    "Fmax": "5",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T21:00:00Z",
+   "values": {
+    "D": "135",
+    "F": "2.2",
+    "DIcon": "2",
+    "Dmax": "119",
+    "Fmax": "4.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T21:10:00Z",
+   "values": {
+    "D": "132",
+    "F": "1.9",
+    "DIcon": "2",
+    "Dmax": "137",
+    "Fmax": "3.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T21:20:00Z",
+   "values": {
+    "D": "139",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "146",
+    "Fmax": "2.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T21:30:00Z",
+   "values": {
+    "D": "163",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "166",
+    "Fmax": "2.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T21:40:00Z",
+   "values": {
+    "D": "153",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "131",
+    "Fmax": "3.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T21:50:00Z",
+   "values": {
+    "D": "151",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "174",
+    "Fmax": "2.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T22:00:00Z",
+   "values": {
+    "D": "156",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "142",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T22:10:00Z",
+   "values": {
+    "D": "158",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "158",
+    "Fmax": "3.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T22:20:00Z",
+   "values": {
+    "D": "127",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "133",
+    "Fmax": "3.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T22:30:00Z",
+   "values": {
+    "D": "150",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "161",
+    "Fmax": "2.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T22:40:00Z",
+   "values": {
+    "D": "175",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "158",
+    "Fmax": "3.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T22:50:00Z",
+   "values": {
+    "D": "151",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "149",
+    "Fmax": "2.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T23:00:00Z",
+   "values": {
+    "D": "125",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "111",
+    "Fmax": "2.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T23:10:00Z",
+   "values": {
+    "D": "133",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "141",
+    "Fmax": "2.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T23:20:00Z",
+   "values": {
+    "D": "144",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "182",
+    "Fmax": "1.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T23:30:00Z",
+   "values": {
+    "D": "141",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "28",
+    "Fmax": "2.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T23:40:00Z",
+   "values": {
+    "D": "58",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "48",
+    "Fmax": "3.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-14T23:50:00Z",
+   "values": {
+    "D": "149",
+    "F": "0.5",
+    "DIcon": "2",
+    "Dmax": "13",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T00:00:00Z",
+   "values": {
+    "D": "146",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "140",
+    "Fmax": "2.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T00:10:00Z",
+   "values": {
+    "D": "147",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "156",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T00:20:00Z",
+   "values": {
+    "D": "137",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "137",
+    "Fmax": "3.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T00:30:00Z",
+   "values": {
+    "D": "260",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "178",
+    "Fmax": "2.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T00:40:00Z",
+   "values": {
+    "D": "197",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "176",
+    "Fmax": "2.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T00:50:00Z",
+   "values": {
+    "D": "128",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "143",
+    "Fmax": "3.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T01:00:00Z",
+   "values": {
+    "D": "74",
+    "F": "0.5",
+    "DIcon": "2",
+    "Dmax": "318",
+    "Fmax": "2.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T01:10:00Z",
+   "values": {
+    "D": "318",
+    "F": "0.3",
+    "DIcon": "2",
+    "Dmax": "341",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T01:20:00Z",
+   "values": {
+    "D": "173",
+    "F": "0.5",
+    "DIcon": "2",
+    "Dmax": "121",
+    "Fmax": "3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T01:30:00Z",
+   "values": {
+    "D": "149",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "157",
+    "Fmax": "3.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T01:40:00Z",
+   "values": {
+    "D": "166",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "147",
+    "Fmax": "2.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T01:50:00Z",
+   "values": {
+    "D": "156",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "145",
+    "Fmax": "2.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T02:00:00Z",
+   "values": {
+    "D": "192",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "24",
+    "Fmax": "2.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T02:10:00Z",
+   "values": {
+    "D": "260",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "25",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T02:20:00Z",
+   "values": {
+    "D": "194",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "52",
+    "Fmax": "2.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T02:30:00Z",
+   "values": {
+    "D": "165",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "29",
+    "Fmax": "2.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T02:40:00Z",
+   "values": {
+    "D": "207",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "208",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T02:50:00Z",
+   "values": {
+    "D": "241",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "50",
+    "Fmax": "2.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T03:00:00Z",
+   "values": {
+    "D": "160",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "329",
+    "Fmax": "1.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T03:10:00Z",
+   "values": {
+    "D": "151",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "291",
+    "Fmax": "2.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T03:20:00Z",
+   "values": {
+    "D": "136",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "92",
+    "Fmax": "3.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T03:30:00Z",
+   "values": {
+    "D": "221",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "251",
+    "Fmax": "2.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T03:40:00Z",
+   "values": {
+    "D": "248",
+    "F": "0.5",
+    "DIcon": "2",
+    "Dmax": "16",
+    "Fmax": "1.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T03:50:00Z",
+   "values": {
+    "D": "232",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "214",
+    "Fmax": "1.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T04:00:00Z",
+   "values": {
+    "D": "189",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "163",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T04:10:00Z",
+   "values": {
+    "D": "207",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "194",
+    "Fmax": "1.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T04:20:00Z",
+   "values": {
+    "D": "260",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "16",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T04:30:00Z",
+   "values": {
+    "D": "66",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "332",
+    "Fmax": "2.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T04:40:00Z",
+   "values": {
+    "D": "114",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "176",
+    "Fmax": "1.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T04:50:00Z",
+   "values": {
+    "D": "93",
+    "F": "0.5",
+    "DIcon": "2",
+    "Dmax": "112",
+    "Fmax": "2.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T05:00:00Z",
+   "values": {
+    "D": "105",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "147",
+    "Fmax": "1.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T05:10:00Z",
+   "values": {
+    "D": "116",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "150",
+    "Fmax": "1.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T05:20:00Z",
+   "values": {
+    "D": "100",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "335",
+    "Fmax": "2.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T05:30:00Z",
+   "values": {
+    "D": "112",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "156",
+    "Fmax": "1.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T05:40:00Z",
+   "values": {
+    "D": "125",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "145",
+    "Fmax": "1.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T05:50:00Z",
+   "values": {
+    "D": "31",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "69",
+    "Fmax": "2.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T06:00:00Z",
+   "values": {
+    "D": "96",
+    "F": "0.5",
+    "DIcon": "2",
+    "Dmax": "148",
+    "Fmax": "1.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T06:10:00Z",
+   "values": {
+    "D": "174",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "120",
+    "Fmax": "2.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T06:20:00Z",
+   "values": {
+    "D": "135",
+    "F": "0.5",
+    "DIcon": "2",
+    "Dmax": "49",
+    "Fmax": "2.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T06:30:00Z",
+   "values": {
+    "D": "101",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "94",
+    "Fmax": "1.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T06:40:00Z",
+   "values": {
+    "D": "44",
+    "F": "0.5",
+    "DIcon": "2",
+    "Dmax": "341",
+    "Fmax": "2.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T06:50:00Z",
+   "values": {
+    "D": "238",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "139",
+    "Fmax": "2.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T07:00:00Z",
+   "values": {
+    "D": "218",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "222",
+    "Fmax": "1.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T07:10:00Z",
+   "values": {
+    "D": "239",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "229",
+    "Fmax": "1.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T07:20:00Z",
+   "values": {
+    "D": "217",
+    "F": "0.8",
+    "DIcon": "2",
+    "Dmax": "222",
+    "Fmax": "1.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T07:30:00Z",
+   "values": {
+    "D": "221",
+    "F": "0.6",
+    "DIcon": "2",
+    "Dmax": "27",
+    "Fmax": "2.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T07:40:00Z",
+   "values": {
+    "D": "132",
+    "F": "0.4",
+    "DIcon": "2",
+    "Dmax": "41",
+    "Fmax": "2.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T07:50:00Z",
+   "values": {
+    "D": "220",
+    "F": "0.5",
+    "DIcon": "2",
+    "Dmax": "59",
+    "Fmax": "2.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T08:00:00Z",
+   "values": {
+    "D": "230",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "58",
+    "Fmax": "2.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T08:10:00Z",
+   "values": {
+    "D": "168",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "156",
+    "Fmax": "4.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T08:20:00Z",
+   "values": {
+    "D": "186",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "186",
+    "Fmax": "3.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T08:30:00Z",
+   "values": {
+    "D": "198",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "165",
+    "Fmax": "3.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T08:40:00Z",
+   "values": {
+    "D": "199",
+    "F": "1.5",
+    "DIcon": "2",
+    "Dmax": "192",
+    "Fmax": "4.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T08:50:00Z",
+   "values": {
+    "D": "161",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "156",
+    "Fmax": "3.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T09:00:00Z",
+   "values": {
+    "D": "147",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "91",
+    "Fmax": "3.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T09:10:00Z",
+   "values": {
+    "D": "192",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "168",
+    "Fmax": "4.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T09:20:00Z",
+   "values": {
+    "D": "192",
+    "F": "1.5",
+    "DIcon": "2",
+    "Dmax": "195",
+    "Fmax": "4.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T09:30:00Z",
+   "values": {
+    "D": "170",
+    "F": "1.6",
+    "DIcon": "2",
+    "Dmax": "175",
+    "Fmax": "5.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T09:40:00Z",
+   "values": {
+    "D": "148",
+    "F": "1",
+    "DIcon": "2",
+    "Dmax": "159",
+    "Fmax": "3.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T09:50:00Z",
+   "values": {
+    "D": "160",
+    "F": "1",
+    "DIcon": "2",
+    "Dmax": "153",
+    "Fmax": "2.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T10:00:00Z",
+   "values": {
+    "D": "199",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "168",
+    "Fmax": "3.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T10:10:00Z",
+   "values": {
+    "D": "196",
+    "F": "0.9",
+    "DIcon": "2",
+    "Dmax": "161",
+    "Fmax": "2.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T10:20:00Z",
+   "values": {
+    "D": "182",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "134",
+    "Fmax": "3.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T10:30:00Z",
+   "values": {
+    "D": "205",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "239",
+    "Fmax": "3.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T10:40:00Z",
+   "values": {
+    "D": "197",
+    "F": "1.2",
+    "DIcon": "2",
+    "Dmax": "196",
+    "Fmax": "3.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T10:50:00Z",
+   "values": {
+    "D": "196",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "196",
+    "Fmax": "3.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T11:00:00Z",
+   "values": {
+    "D": "180",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "190",
+    "Fmax": "3.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T11:10:00Z",
+   "values": {
+    "D": "177",
+    "F": "1.9",
+    "DIcon": "2",
+    "Dmax": "174",
+    "Fmax": "4.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T11:20:00Z",
+   "values": {
+    "D": "173",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "219",
+    "Fmax": "4.4",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T11:30:00Z",
+   "values": {
+    "D": "167",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "149",
+    "Fmax": "4.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T11:40:00Z",
+   "values": {
+    "D": "171",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "177",
+    "Fmax": "4.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T11:50:00Z",
+   "values": {
+    "D": "156",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "146",
+    "Fmax": "3.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T12:00:00Z",
+   "values": {
+    "D": "158",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "129",
+    "Fmax": "3.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T12:10:00Z",
+   "values": {
+    "D": "145",
+    "F": "2.3",
+    "DIcon": "2",
+    "Dmax": "154",
+    "Fmax": "5.5",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T12:20:00Z",
+   "values": {
+    "D": "137",
+    "F": "2.9",
+    "DIcon": "2",
+    "Dmax": "134",
+    "Fmax": "5.9",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T12:30:00Z",
+   "values": {
+    "D": "140",
+    "F": "2.4",
+    "DIcon": "2",
+    "Dmax": "156",
+    "Fmax": "4.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T12:40:00Z",
+   "values": {
+    "D": "144",
+    "F": "1.9",
+    "DIcon": "2",
+    "Dmax": "120",
+    "Fmax": "5.1",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T12:50:00Z",
+   "values": {
+    "D": "136",
+    "F": "2.7",
+    "DIcon": "2",
+    "Dmax": "126",
+    "Fmax": "5",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T13:00:00Z",
+   "values": {
+    "D": "155",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "157",
+    "Fmax": "3.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T13:10:00Z",
+   "values": {
+    "D": "148",
+    "F": "2.1",
+    "DIcon": "2",
+    "Dmax": "189",
+    "Fmax": "4.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T13:20:00Z",
+   "values": {
+    "D": "149",
+    "F": "2",
+    "DIcon": "2",
+    "Dmax": "162",
+    "Fmax": "4.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T13:30:00Z",
+   "values": {
+    "D": "160",
+    "F": "2.3",
+    "DIcon": "2",
+    "Dmax": "165",
+    "Fmax": "5.2",
+    "DmaxIcon": "3"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T13:40:00Z",
+   "values": {
+    "D": "157",
+    "F": "2",
+    "DIcon": "2",
+    "Dmax": "143",
+    "Fmax": "4.5",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T13:50:00Z",
+   "values": {
+    "D": "146",
+    "F": "1.8",
+    "DIcon": "2",
+    "Dmax": "159",
+    "Fmax": "4.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T14:00:00Z",
+   "values": {
+    "D": "156",
+    "F": "1.6",
+    "DIcon": "2",
+    "Dmax": "182",
+    "Fmax": "3.7",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T14:10:00Z",
+   "values": {
+    "D": "159",
+    "F": "1.7",
+    "DIcon": "2",
+    "Dmax": "195",
+    "Fmax": "4.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T14:20:00Z",
+   "values": {
+    "D": "190",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "223",
+    "Fmax": "3.3",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T14:30:00Z",
+   "values": {
+    "D": "190",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "216",
+    "Fmax": "3.2",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T14:40:00Z",
+   "values": {
+    "D": "196",
+    "F": "1.9",
+    "DIcon": "2",
+    "Dmax": "191",
+    "Fmax": "3.9",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T14:50:00Z",
+   "values": {
+    "D": "185",
+    "F": "1.3",
+    "DIcon": "2",
+    "Dmax": "186",
+    "Fmax": "3.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T15:00:00Z",
+   "values": {
+    "D": "205",
+    "F": "1.4",
+    "DIcon": "2",
+    "Dmax": "184",
+    "Fmax": "2.6",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T15:10:00Z",
+   "values": {
+    "D": "223",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "201",
+    "Fmax": "3.1",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T15:20:00Z",
+   "values": {
+    "D": "205",
+    "F": "1.1",
+    "DIcon": "2",
+    "Dmax": "194",
+    "Fmax": "2.8",
+    "DmaxIcon": "2"
+   }
+  },
+  {
+   "timestamp": "2026-11-15T15:30:00Z",
+   "values": {
+    "D": "220",
+    "F": "0.7",
+    "DIcon": "2",
+    "Dmax": "58",
+    "Fmax": "2",
+    "DmaxIcon": "2"
+   }
+  }
+ ],
+ "dial": {
+  "D": {
+   "Code": "D",
+   "Name": "Směr větru",
+   "UnitHTML": "°"
+  },
+  "F": {
+   "Code": "F",
+   "Name": "Rychlost větru",
+   "UnitHTML": "m.s<sup>-1</sup>"
+  },
+  "Dmax": {
+   "Code": "Dmax",
+   "Name": "Směr maximálního větru",
+   "UnitHTML": "°"
+  },
+  "Fmax": {
+   "Code": "Fmax",
+   "Name": "Maximální rychlost větru",
+   "UnitHTML": "m.s<sup>-1</sup>"
+  }
+ }
+}
